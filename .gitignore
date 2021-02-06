@@ -1,0 +1,6 @@
+./.prettierignore
+./.prettierrc
+./__pycache__
+./ecommerce/__pycache__
+./store/__pycache__
+./store/migrations/__pycache__
